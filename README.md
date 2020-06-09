@@ -1,2 +1,2 @@
 # qroniton-server
-QRONITON backend service
+QRONITON backend service - coming soon.
